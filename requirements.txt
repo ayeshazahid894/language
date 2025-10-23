@@ -1,0 +1,15 @@
+deep-translator==1.9.0
+langdetect==1.0.9
+pandas==2.2.0
+customtkinter
+googletrans==4.0.0-rc1
+deep-translator
+langdetect
+pandas
+python-docx
+python-pptx
+PyPDF2
+deep-translator
+langdetect
+pandas
+streamlit
